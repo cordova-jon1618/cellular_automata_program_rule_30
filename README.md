@@ -5,6 +5,13 @@ This project implements Rule 30 Cellular Automata with both sequential and paral
 
 --------------
 
+# Author
+--------------
+
+●	Jonathan Cordova  -  [@cordova-jon1618] - https://github.com/cordova-jon1618
+
+--------------
+
 ![cellular_automata_image](https://github.com/user-attachments/assets/8cf259b9-71ae-496d-80bc-694026a93d8e)
 
 --------------
